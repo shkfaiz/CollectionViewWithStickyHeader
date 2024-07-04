@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9F4FEEC8-A660-446D-8E51-2B76CD71FA2E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "338AF5E5-3082-498C-BC0E-B49394886615"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "CC055396-8F7B-478E-A3DC-40F51166FD6F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2539502D-293F-4585-812C-F0ECDEAACD84"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expand-CollapseHeaderWithTabs/tabBarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2400E9ED-2731-46AB-BB01-695E6B9B4672"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expand-CollapseHeaderWithTabs/SlidingTabView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2400E9ED-2731-46AB-BB01-695E6B9B4672 - d718c14e60c5c4f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, Swift.String) -&gt; Expand_CollapseHeaderWithTabs.TabBarItem in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(Swift.Int, Swift.String)&gt;, Swift.Int, Expand_CollapseHeaderWithTabs.TabBarItem&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in Expand_CollapseHeaderWithTabs.SlidingTabView.body.getter : some"
+                  moduleName = "Expand-CollapseHeaderWithTabs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faizan/Downloads/Expand-CollapseHeaderWithTabs-second-part/Expand-CollapseHeaderWithTabs/SlidingTabView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "2400E9ED-2731-46AB-BB01-695E6B9B4672 - d718c14e60c5c413"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, Swift.String) -&gt; Expand_CollapseHeaderWithTabs.TabBarItem in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(Swift.Int, Swift.String)&gt;, Swift.Int, Expand_CollapseHeaderWithTabs.TabBarItem&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in Expand_CollapseHeaderWithTabs.SlidingTabView.body.getter : some"
+                  moduleName = "Expand-CollapseHeaderWithTabs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faizan/Downloads/Expand-CollapseHeaderWithTabs-second-part/Expand-CollapseHeaderWithTabs/SlidingTabView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "2400E9ED-2731-46AB-BB01-695E6B9B4672 - d718c14e60c5c413"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, Swift.String) -&gt; Expand_CollapseHeaderWithTabs.TabBarItem in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(Swift.Int, Swift.String)&gt;, Swift.Int, Expand_CollapseHeaderWithTabs.TabBarItem&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in Expand_CollapseHeaderWithTabs.SlidingTabView.body.getter : some"
+                  moduleName = "Expand-CollapseHeaderWithTabs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faizan/Downloads/Expand-CollapseHeaderWithTabs-second-part/Expand-CollapseHeaderWithTabs/SlidingTabView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28777E18-F497-41BC-818C-09A6893C99EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expand-CollapseHeaderWithTabs/StickyHeaderLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "28777E18-F497-41BC-818C-09A6893C99EF - 8bf4a9145a840457"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Expand_CollapseHeaderWithTabs.SliderViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Expand-CollapseHeaderWithTabs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faizan/Downloads/Expand-CollapseHeaderWithTabs-second-part/Expand-CollapseHeaderWithTabs/StickyHeaderLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "28777E18-F497-41BC-818C-09A6893C99EF - a50b91e65d730306"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Expand_CollapseHeaderWithTabs.SliderViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Expand-CollapseHeaderWithTabs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faizan/Downloads/Expand-CollapseHeaderWithTabs-second-part/Expand-CollapseHeaderWithTabs/StickyHeaderLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
